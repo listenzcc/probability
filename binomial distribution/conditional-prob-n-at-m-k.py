@@ -56,8 +56,10 @@ pivot = res.pivot(index='m', columns='n', values='p')
 display(pivot)
 
 sns.heatmap(pivot, cmap='Blues')
-plt.title('Joint prob. of (m, n) at k=5')
+title = 'Conditional prob of n at m and k=5'
+plt.title(title)
 plt.tight_layout()
+plt.savefig(f'./binomial-distribution-img/{title}.png')
 plt.show()
 
 

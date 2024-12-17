@@ -7,5 +7,7 @@
       "path": "binomial distribution"
     }
   ],
-  "settings": {}
+  "settings": {
+    "cSpell.words": ["Hypergeometric"]
+  }
 }
