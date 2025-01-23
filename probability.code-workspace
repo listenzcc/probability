@@ -1,11 +1,8 @@
 {
   "folders": [
-    {
-      "path": "."
-    },
-    {
-      "path": "binomial distribution"
-    }
+    { "path": "." },
+    { "path": "binomial distribution" },
+    { "path": "Skewed distribution" }
   ],
   "settings": {
     "cSpell.words": ["Hypergeometric"]
